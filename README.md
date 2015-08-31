@@ -1,6 +1,6 @@
 # ftp-downloader
 
-Downloads the files in a FTP server.
+Downloads the files in an FTP server.
 
 All the files in FTP server or in specified folder can be downloaded. 
 
